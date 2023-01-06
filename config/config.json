@@ -1,13 +1,13 @@
 {
   "development": {
-    "username": "postgres",
+    "username": "srikanth1208",
     "password": "srikanth",
     "database": "wd-todo-dev",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "postgres",
+    "username": "srikanth1208",
     "password": "srikanth",
     "database": "wd-todo-test",
     "host": "127.0.0.1",
